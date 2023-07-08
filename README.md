@@ -7,6 +7,10 @@ This project is NASA React Frontend for the Fullstack app [NASA Full Stack App](
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed application 
+
+![nasa-mission-control](https://github.com/omarx/NASA_React/assets/4944767/8e13a2b4-c7cf-416f-9cd0-a97a726f5347)
+
 ## Available Scripts
 
 In the project directory, you can run:
