@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+
+
+# Getting Started
+
+
+This project is NASA React Frontend for the Fullstack app below is the basic React instructions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
